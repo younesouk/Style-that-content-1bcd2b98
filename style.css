@@ -1,0 +1,52 @@
+.navbar {
+	display: flex;
+	justify-content: space-around;
+	background: rgba(255,255,0,0.3);
+	text-transform: uppercase;
+	font-weight: bold;
+	color: black;
+	border: solid white 0.1em;
+}
+
+h1 {
+	width: 100%;
+	text-align: center;
+}	
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+	background: rgba(255,255,0,0.3);
+	border: solid white 0.1em;
+}
+
+.news {
+	width: 33%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
